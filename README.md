@@ -89,9 +89,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Abel MB]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Abel MB]: [javascript]
+- [Name 2]: [html,css]
+- [Name 3]: [debugging]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
