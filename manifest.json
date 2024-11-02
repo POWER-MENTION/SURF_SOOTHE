@@ -1,8 +1,8 @@
 {
-    "manifest_version": 1,
-    "name": "Text Reverser",
+    "manifest_version": 2,
+    "name": "SURF_SOOTHE",
     "version": "1.0",
-    "description": "Reverses all text on the current webpage",
+    "description": "blow off some steam while surfing the web",
     "permissions": ["activeTab", "scripting"],
     "action": {
       "default_popup": "popup.html"
