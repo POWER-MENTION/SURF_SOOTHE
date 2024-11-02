@@ -48,13 +48,22 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
+
+SCREENSHOT 1
 ![![text before reverse](https://github.com/POWER-MENTION/useless_projects/blob/main/before%20reversing.png)]
+
 ##It shows the webpage text before reversing it 
 
+SCREENSHOT 2
 ![![text after reverse](https://github.com/POWER-MENTION/useless_projects/blob/main/after%20reversing.png)]
+
 ##It shows the webpage after reversing it
 
+SCREENSHOT 3
+
 ![![interface](https://github.com/POWER-MENTION/useless_projects/blob/main/extension%20interface.png)]
+
+
 ##It shows the interface of the extension
 
 # Diagrams
