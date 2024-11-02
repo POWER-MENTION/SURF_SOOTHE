@@ -1,0 +1,16 @@
+{
+    "manifest_version": 1,
+    "name": "Text Reverser",
+    "version": "1.0",
+    "description": "Reverses all text on the current webpage",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
