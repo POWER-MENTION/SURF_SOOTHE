@@ -1,5 +1,5 @@
 {
-    "manifest_version": 1,
+    "manifest_version": 2,
     "name": "SURF_SOOTHE",
     "version": "1.0",
     "description": "blow off some steam while surfing the web",
