@@ -89,9 +89,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Abel MB]: [javascript]
-- [Name 2]: [html,css]
-- [Name 3]: [debugging]
+- [Abel MB]: [java script]
+- [ANLY C T]: [html ,css]
+- [Anupama PP]: [debugging ]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
