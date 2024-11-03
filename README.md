@@ -51,11 +51,11 @@ For Software:
 ![![text before reverse](https://github.com/POWER-MENTION/useless_projects/blob/main/before%20reversing.png)](Add screenshot 1 here with proper name)
 ##It shows the webpage text before reversing it 
 
-![![text after reverse]https://github.com/POWER-MENTION/useless_projects/blob/main/after%20reversing.png](Add screenshot 2 here with proper name)
+![![text after reverse](https://github.com/POWER-MENTION/useless_projects/blob/main/after%20reversing.png)](Add screenshot 2 here with proper name)
 ##It shows the webpage after reversing it
 
 ![![interface ](https://github.com/POWER-MENTION/useless_projects/blob/main/extension%20interface.png)](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*It shows the interface of the extension
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
