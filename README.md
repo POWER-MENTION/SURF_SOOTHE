@@ -54,7 +54,7 @@ For Software:
 ![![text after reverse]https://github.com/POWER-MENTION/useless_projects/blob/main/after%20reversing.png](Add screenshot 2 here with proper name)
 ##It shows the webpage after reversing it
 
-![![interface](https://github.com/POWER-MENTION/useless_projects/blob/main/extension%20interface.png)](Add screenshot 3 here with proper name)
+![![interface ](https://github.com/POWER-MENTION/useless_projects/blob/main/extension%20interface.png)](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -89,9 +89,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-##[Abel MB]:[javascript]
-##[ANLY C T]:[html,css]
-##[Anupama PP]:[debugging]
+- [Abel MB]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
